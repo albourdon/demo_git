@@ -1,3 +1,8 @@
 alert("hello");77
+<<<<<<< .mine
+change depuis 7 github no change
+what what the
+=======
 change hub s 7 github
 what what
+>>>>>>> .theirs
